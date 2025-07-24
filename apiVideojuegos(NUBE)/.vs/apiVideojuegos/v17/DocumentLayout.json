@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gordito\\Desktop\\ProyectoFinal\\ProyectoFinal4Games\\apiVideojuegos(LOCAL)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79C0DAAE-5C24-4759-B965-E2FDC2857779}|apiVideojuegos\\apiVideojuegos.csproj|c:\\users\\gordito\\desktop\\proyectofinal\\proyectofinal4games\\apivideojuegos(local)\\apivideojuegos\\models\\request\\usuariosrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79C0DAAE-5C24-4759-B965-E2FDC2857779}|apiVideojuegos\\apiVideojuegos.csproj|solutionrelative:apivideojuegos\\models\\request\\usuariosrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79C0DAAE-5C24-4759-B965-E2FDC2857779}|apiVideojuegos\\apiVideojuegos.csproj|c:\\users\\gordito\\desktop\\proyectofinal\\proyectofinal4games\\apivideojuegos(local)\\apivideojuegos\\models\\request\\videojuegosrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79C0DAAE-5C24-4759-B965-E2FDC2857779}|apiVideojuegos\\apiVideojuegos.csproj|solutionrelative:apivideojuegos\\models\\request\\videojuegosrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79C0DAAE-5C24-4759-B965-E2FDC2857779}|apiVideojuegos\\apiVideojuegos.csproj|c:\\users\\gordito\\desktop\\proyectofinal\\proyectofinal4games\\apivideojuegos(local)\\apivideojuegos\\models\\request\\reservavideojuegorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79C0DAAE-5C24-4759-B965-E2FDC2857779}|apiVideojuegos\\apiVideojuegos.csproj|solutionrelative:apivideojuegos\\models\\request\\reservavideojuegorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79C0DAAE-5C24-4759-B965-E2FDC2857779}|apiVideojuegos\\apiVideojuegos.csproj|c:\\users\\gordito\\desktop\\proyectofinal\\proyectofinal4games\\apivideojuegos(local)\\apivideojuegos\\models\\request\\reservarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79C0DAAE-5C24-4759-B965-E2FDC2857779}|apiVideojuegos\\apiVideojuegos.csproj|solutionrelative:apivideojuegos\\models\\request\\reservarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79C0DAAE-5C24-4759-B965-E2FDC2857779}|apiVideojuegos\\apiVideojuegos.csproj|c:\\users\\gordito\\desktop\\proyectofinal\\proyectofinal4games\\apivideojuegos(local)\\apivideojuegos\\models\\request\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79C0DAAE-5C24-4759-B965-E2FDC2857779}|apiVideojuegos\\apiVideojuegos.csproj|solutionrelative:apivideojuegos\\models\\request\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79C0DAAE-5C24-4759-B965-E2FDC2857779}|apiVideojuegos\\apiVideojuegos.csproj|c:\\users\\gordito\\desktop\\proyectofinal\\proyectofinal4games\\apivideojuegos(local)\\apivideojuegos\\models\\request\\clienterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79C0DAAE-5C24-4759-B965-E2FDC2857779}|apiVideojuegos\\apiVideojuegos.csproj|solutionrelative:apivideojuegos\\models\\request\\clienterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79C0DAAE-5C24-4759-B965-E2FDC2857779}|apiVideojuegos\\apiVideojuegos.csproj|c:\\users\\gordito\\desktop\\proyectofinal\\proyectofinal4games\\apivideojuegos(local)\\apivideojuegos\\models\\request\\categoriarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79C0DAAE-5C24-4759-B965-E2FDC2857779}|apiVideojuegos\\apiVideojuegos.csproj|solutionrelative:apivideojuegos\\models\\request\\categoriarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VideojuegosRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Gordito\\Desktop\\ProyectoFinal\\ProyectoFinal4Games\\apiVideojuegos(LOCAL)\\apiVideojuegos\\Models\\Request\\VideojuegosRequest.cs",
+              "RelativeDocumentMoniker": "apiVideojuegos\\Models\\Request\\VideojuegosRequest.cs",
+              "ToolTip": "C:\\Users\\Gordito\\Desktop\\ProyectoFinal\\ProyectoFinal4Games\\apiVideojuegos(LOCAL)\\apiVideojuegos\\Models\\Request\\VideojuegosRequest.cs",
+              "RelativeToolTip": "apiVideojuegos\\Models\\Request\\VideojuegosRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T20:04:37.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuariosRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Gordito\\Desktop\\ProyectoFinal\\ProyectoFinal4Games\\apiVideojuegos(LOCAL)\\apiVideojuegos\\Models\\Request\\UsuariosRequest.cs",
+              "RelativeDocumentMoniker": "apiVideojuegos\\Models\\Request\\UsuariosRequest.cs",
+              "ToolTip": "C:\\Users\\Gordito\\Desktop\\ProyectoFinal\\ProyectoFinal4Games\\apiVideojuegos(LOCAL)\\apiVideojuegos\\Models\\Request\\UsuariosRequest.cs",
+              "RelativeToolTip": "apiVideojuegos\\Models\\Request\\UsuariosRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T20:04:27.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReservaVideojuegoRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Gordito\\Desktop\\ProyectoFinal\\ProyectoFinal4Games\\apiVideojuegos(LOCAL)\\apiVideojuegos\\Models\\Request\\ReservaVideojuegoRequest.cs",
+              "RelativeDocumentMoniker": "apiVideojuegos\\Models\\Request\\ReservaVideojuegoRequest.cs",
+              "ToolTip": "C:\\Users\\Gordito\\Desktop\\ProyectoFinal\\ProyectoFinal4Games\\apiVideojuegos(LOCAL)\\apiVideojuegos\\Models\\Request\\ReservaVideojuegoRequest.cs",
+              "RelativeToolTip": "apiVideojuegos\\Models\\Request\\ReservaVideojuegoRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T20:04:26.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReservaRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Gordito\\Desktop\\ProyectoFinal\\ProyectoFinal4Games\\apiVideojuegos(LOCAL)\\apiVideojuegos\\Models\\Request\\ReservaRequest.cs",
+              "RelativeDocumentMoniker": "apiVideojuegos\\Models\\Request\\ReservaRequest.cs",
+              "ToolTip": "C:\\Users\\Gordito\\Desktop\\ProyectoFinal\\ProyectoFinal4Games\\apiVideojuegos(LOCAL)\\apiVideojuegos\\Models\\Request\\ReservaRequest.cs",
+              "RelativeToolTip": "apiVideojuegos\\Models\\Request\\ReservaRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T20:04:18.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Gordito\\Desktop\\ProyectoFinal\\ProyectoFinal4Games\\apiVideojuegos(LOCAL)\\apiVideojuegos\\Models\\Request\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "apiVideojuegos\\Models\\Request\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\Gordito\\Desktop\\ProyectoFinal\\ProyectoFinal4Games\\apiVideojuegos(LOCAL)\\apiVideojuegos\\Models\\Request\\LoginRequest.cs",
+              "RelativeToolTip": "apiVideojuegos\\Models\\Request\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T20:04:17.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClienteRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Gordito\\Desktop\\ProyectoFinal\\ProyectoFinal4Games\\apiVideojuegos(LOCAL)\\apiVideojuegos\\Models\\Request\\ClienteRequest.cs",
+              "RelativeDocumentMoniker": "apiVideojuegos\\Models\\Request\\ClienteRequest.cs",
+              "ToolTip": "C:\\Users\\Gordito\\Desktop\\ProyectoFinal\\ProyectoFinal4Games\\apiVideojuegos(LOCAL)\\apiVideojuegos\\Models\\Request\\ClienteRequest.cs",
+              "RelativeToolTip": "apiVideojuegos\\Models\\Request\\ClienteRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T20:04:16.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoriaRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Gordito\\Desktop\\ProyectoFinal\\ProyectoFinal4Games\\apiVideojuegos(LOCAL)\\apiVideojuegos\\Models\\Request\\CategoriaRequest.cs",
+              "RelativeDocumentMoniker": "apiVideojuegos\\Models\\Request\\CategoriaRequest.cs",
+              "ToolTip": "C:\\Users\\Gordito\\Desktop\\ProyectoFinal\\ProyectoFinal4Games\\apiVideojuegos(LOCAL)\\apiVideojuegos\\Models\\Request\\CategoriaRequest.cs",
+              "RelativeToolTip": "apiVideojuegos\\Models\\Request\\CategoriaRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T20:04:15.993Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
