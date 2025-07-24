@@ -1,7 +1,7 @@
 # 🎮 Backend - Sistema de Venta de Videojuegos:
 
-Este proyecto contiene: **backend** de un sistema para vender videojuegos. 
-Está hecho con **C#** usando **.NET**.  
+Este proyecto contiene: 
+**backend** de un sistema para vender videojuegos, Está hecho con **C#** usando **.NET**.  
 El backend funciona como una **API REST**, que se conecta con el **frontend** hecho en **React**.
 
 ---
